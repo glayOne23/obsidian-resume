@@ -4,4 +4,5 @@
 ## Styles/Genres of Photography
 
 ---
-![[1.png]]
+![[photography_img/1.png]]
+
