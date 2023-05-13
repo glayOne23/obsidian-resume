@@ -4,4 +4,3 @@
 ## Styles/Genres of Photography
 
 ---
-3
